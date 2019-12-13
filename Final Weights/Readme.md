@@ -7,4 +7,5 @@ Link for InceptionV3 Weights -
 https://drive.google.com/file/d/1ePHRzyXienDMD-8SOtWTLrYCQjqTWK4G/view?usp=sharing
 
 Link for VGG16 Weights - 
+https://drive.google.com/open?id=1q6hmLIS5B7hQ5EeHsokW-oTLdGGqQv_H
 
