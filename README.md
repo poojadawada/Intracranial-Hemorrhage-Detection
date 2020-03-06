@@ -25,4 +25,4 @@ As it is a highly imbalanced problem, we also considered F1 score and decided In
 The threshold was decided giving more weightage to recall as is the case in a medical case.
 
 
-For more information, please refer to the presentation in the repository.
+For more information, please refer to the presentation in the repository or our [blogpost](https://medium.com/detecting-intracranial-hemorrhage-with-deep/detecting-intracranial-hemorrhage-with-deep-learning-e3c5a6eb3d11).
